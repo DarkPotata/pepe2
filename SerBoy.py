@@ -1,1 +1,1 @@
-print("VADIM DURAK")
+print("VADIM DURAK") # adfafsa
